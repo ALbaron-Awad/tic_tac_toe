@@ -64,7 +64,6 @@ def cls_screen():
     print("\033[H\033[J")
     print("\033[H\033[J")
     print("\033[H\033[J")
-    print("\033[H\033[J")
     return
 
 
