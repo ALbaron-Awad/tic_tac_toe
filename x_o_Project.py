@@ -2,7 +2,6 @@ import random
 import time
 global board
 
-
 # For code style i use PEP-8
 
 board = [' ' for x in range(10)]
